@@ -1,0 +1,6 @@
+﻿  CommodityExpert.cpp
+  Wear.cpp
+  Создание кода...
+Lab2.0_V26.11.obj : error LNK2005: "public: static unsigned int Wear::count" (?count@Wear@@2IA) уже определен в CommodityExpert.obj
+Wear.obj : error LNK2005: "public: static unsigned int Wear::count" (?count@Wear@@2IA) уже определен в CommodityExpert.obj
+D:\Программирование\C++\Проекты\Lab2.0_V26.11\Debug\Lab2.0_V26.11.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
